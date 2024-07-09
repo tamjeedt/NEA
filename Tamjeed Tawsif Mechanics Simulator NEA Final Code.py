@@ -1,7 +1,7 @@
 #Mechanics Simulator
 #Author: Tamjeed Tawsif 13D
 #Date started: 15/08/22
-#Date finished: TBD
+#Date finished: 12/03/23
 
 
 #Imported modules
